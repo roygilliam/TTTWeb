@@ -1,0 +1,16 @@
+&thumbURL1=http://www.tetelestaithemusical.com/images/scroller/ohio_thumb.jpg&linkURL1=http://www.tetelestaithemusical.com/images/ohio.jpg&
+&thumbURL2=http://www.tetelestaithemusical.com/images/scroller/01_thumb.jpg&linkURL2=http://www.tetelestaithemusical.com/images/scroller/01.jpg&
+&thumbURL3=http://www.tetelestaithemusical.com/images/scroller/02_thumb.jpg&linkURL3=http://www.tetelestaithemusical.com/images/scroller/02.jpg&
+&thumbURL4=http://www.tetelestaithemusical.com/images/scroller/03_thumb.jpg&linkURL4=http://www.tetelestaithemusical.com/images/scroller/03.jpg&
+&thumbURL5=http://www.tetelestaithemusical.com/images/scroller/04_thumb.jpg&linkURL5=http://www.tetelestaithemusical.com/images/scroller/04.jpg&
+&thumbURL6=http://www.tetelestaithemusical.com/images/scroller/05_thumb.jpg&linkURL6=http://www.tetelestaithemusical.com/images/scroller/05.jpg&
+&thumbURL7=http://www.tetelestaithemusical.com/images/scroller/06_thumb.jpg&linkURL7=http://www.tetelestaithemusical.com/images/scroller/06.jpg&
+&thumbURL8=http://www.tetelestaithemusical.com/images/scroller/07_thumb.jpg&linkURL8=http://www.tetelestaithemusical.com/images/scroller/07.jpg&
+&thumbURL9=http://www.tetelestaithemusical.com/images/scroller/08_thumb.jpg&linkURL9=http://www.tetelestaithemusical.com/images/scroller/08.jpg&
+&thumbURL10=http://www.tetelestaithemusical.com/images/scroller/09_thumb.jpg&linkURL10=http://www.tetelestaithemusical.com/images/scroller/09.jpg&
+&thumbURL11=http://www.tetelestaithemusical.com/images/scroller/10_thumb.jpg&linkURL11=http://www.tetelestaithemusical.com/images/scroller/10.jpg&
+&thumbURL12=http://www.tetelestaithemusical.com/images/scroller/11_thumb.jpg&linkURL12=http://www.tetelestaithemusical.com/images/scroller/11.jpg&
+&thumbURL13=http://www.tetelestaithemusical.com/images/scroller/12_thumb.jpg&linkURL13=http://www.tetelestaithemusical.com/images/scroller/12.jpg&
+&thumbURL14=http://www.tetelestaithemusical.com/images/scroller/13_thumb.jpg&linkURL14=http://www.tetelestaithemusical.com/images/scroller/13.jpg&
+&thumbURL15=http://www.tetelestaithemusical.com/images/scroller/14_thumb.jpg&linkURL15=http://www.tetelestaithemusical.com/images/scroller/14.jpg&
+&thumbURL16=http://www.tetelestaithemusical.com/images/scroller/15_thumb.jpg&linkURL16=http://www.tetelestaithemusical.com/images/scroller/15.jpg&
